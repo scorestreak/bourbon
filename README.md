@@ -106,11 +106,11 @@ For command line help, visit our wiki page on Bourbon’s [command line interfac
 
 ## Browser support
 
-- Chrome 10.0+
-- Firefox 3.6+
+- Chrome 26+
+- Firefox 16+
 - Internet Explorer 9+
-- Opera 12+
-- Safari 5.1+
+- Opera 12.1+
+- Safari 6.1+
 
 ## The Bourbon family
 
